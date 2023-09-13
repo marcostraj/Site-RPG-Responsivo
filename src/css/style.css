@@ -50,7 +50,7 @@ img {
 }
 
 .grid1 {
-    background-image: url(../imagens/img-1.png);
+    background-image: url("img-1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -65,28 +65,28 @@ img {
 
 @keyframes bgChange{
     0%{
-        background-image: url(../imagens/img-1.png);
+        background-image: url("img-1.png");
     }
     20%{
-        background-image: url(../imagens/img-1.png);
+        background-image: url("img-1.png");
     }
     25%{
-        background-image: url(../imagens/img-23.png);
+        background-image: url("img-23.png");
     }
     45%{
-        background-image: url(../imagens/img-23.png);
+        background-image: url("img-23.png");
     }
     50%{
-        background-image: url(../imagens/img-24.png);
+        background-image: url("img-24.png");
     }
     70%{
-        background-image: url(../imagens/img-24.png);
+        background-image: url("img-24.png");
     }
     75%{
-        background-image: url(../imagens/img-23.png);
+        background-image: url("img-23.png");
     }
     95%{
-        background-image: url(../imagens/img-23.png);
+        background-image: url("img-23.png");
     }
 }
 
